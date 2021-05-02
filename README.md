@@ -8,3 +8,6 @@
 deji2443/deji2443 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/ko6ojxj01hdcs0a4lkmk" alt="trackgit-views" />
+</a>
